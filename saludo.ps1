@@ -8,7 +8,7 @@ function Saludar {
     )
     
     Write-Host "=================================" -ForegroundColor Yellow
-    Write-Host "¡Hola, $Nombre!" -ForegroundColor Green
+    Write-Host "¡Ha, $Nombre!" -ForegroundColor Green
     Write-Host "Bienvedo a PowerShell" -ForegroundColor Cyan
     Write-Host "Estás en el repositorio: $PSScriptRoot" -ForegroundColor Magenta
     Write-Host "Fecha y ra: $(Get-Date)" -ForegroundColor White
