@@ -6,7 +6,7 @@ Repositorio de pruebas para el reto ASIR360 2025-2026.
 
 - `test1.txt` - Script bash de prueba que imprime un saludo
 
-## Descripción
+## Desción
 
 Este repositorio contiene ejemplos y ejercicios relacionados con el reto ASIR360 para el curso 2025-2026.
 
